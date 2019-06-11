@@ -1,2 +1,6 @@
-numpy==1.14.2
-tensorflow==1.7.1
+numpy
+tensorflow==1.13.1
+SciPy
+joblib
+scikit-learn
+matplotlib

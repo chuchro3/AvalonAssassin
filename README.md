@@ -1,12 +1,12 @@
 # AvalonAssassin 
-CS234 Texas Holdem AI player
+AI that is trained to play the Assassin during shooting phase of the game The Resistance: Avalon
 
 ## Installation Instructions
 
-Setup virtualenv with python3.6:
+Setup virtualenv with python3.7:
 
 `sudo pip install virtualenv`
-`virtualenv .env --python=python3.6`
+`virtualenv .env --python=python3.7`
 `source .env/bin/activate`
 
 To exit the virtual environment at any time:
